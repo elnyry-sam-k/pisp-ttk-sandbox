@@ -15,3 +15,5 @@ docker-compose up
 6. Select the imported file in the collection manager
 7. Click on the button `Run`
 8. Observe the requests and responses in each test case
+9. Open monitoring page in a separate tab or window (http://localhost:6060/admin/monitoring or use the option on the left pane) and "run" the file (test cases) again to view the requests and responses (expand on each to see the messages and synchronous responses)
+10. For customizing and tweaking data or further exploration, use the "edit" option (on the right side) of each test case to view the various options in the requests (For further documentation on usage, refer to TTK docs: https://github.com/mojaloop/ml-testing-toolkit/blob/master/documents/User-Guide.md)
